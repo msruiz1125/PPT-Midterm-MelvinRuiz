@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: Melvin Ruiz
+Course: BS Computer Science
+Year Level: 4th year
+Favorite Programming Language: C++
+Career Goal: Software Engineer
